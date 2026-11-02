@@ -1,8 +1,0 @@
-Flask
-Flask-SQLAlchemy
-Flask-SocketIO
-Flask-Limiter
-simple-websocket
-PyJWT
-gunicorn
-psycopg2-binary
